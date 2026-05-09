@@ -8,7 +8,7 @@ import {
   type AIModel,
   type NewsSource,
   type PublishMethod,
-} from '@/lib/config/settings'
+} from '@/lib/config/options'
 
 interface FormState {
   aiModel: AIModel
